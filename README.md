@@ -1,6 +1,5 @@
 # rDD-PIPE
-
-To users: we will realiease the source code later.
+20220715
 
 ## 0. Operation system
 ```
