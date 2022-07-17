@@ -152,13 +152,12 @@ BASIC.DIR/GM12878_rDD_v-snoRNA1_rep3_BR.HG38B.E.bdg
 
 ## 10. Quality control Table
 
-GM12878_rDD_v-snoRNA1_rep3_BR.final_stats.tsv
+![image](https://user-images.githubusercontent.com/88769457/179399571-a46b13d4-9418-49f4-b471-5682f2c10d26.png)
 
-![image](https://user-images.githubusercontent.com/88769457/179134866-5584f0c0-da30-4bbe-9397-32b817e37400.png)
+
 
 
 ## 11. Quality control Plots
-![image](https://user-images.githubusercontent.com/88769457/179134913-23180f2a-5067-4a1a-8f30-2763ab2fc485.png)
-
+![image](https://user-images.githubusercontent.com/88769457/179401936-c8101dfb-6315-44f8-9f63-331b6d983b9a.png)
 
 
